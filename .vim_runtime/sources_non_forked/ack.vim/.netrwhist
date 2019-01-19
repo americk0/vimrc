@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/bwatson3/Code/account-creation/caa-page/test'
+let g:netrw_dirhist_2='/Users/bwatson3/notes'
+let g:netrw_dirhist_3='/Users/bwatson3/code/cox-chapi/bin'
